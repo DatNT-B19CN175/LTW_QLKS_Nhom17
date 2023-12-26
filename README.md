@@ -5,7 +5,7 @@
 - Khi khách vào web sẽ có thể xem thông tin về khách sạn, và danh sách các phòng của khách sạn, nhưng không thể đặt phòng. 
 - Muốn đặt phòng khách hàng phải gọi điện cho quản lí để đặt phòng hoặc đến tận nơi đặt phòng
 - Quản lí khách sạn sẽ có thể đăng nhập tài khoản đã tạo sẵn và thêm đơn đặt phòng, hủy đơn đặt phòng, sửa đơn đặt phòng.
-3. Đóng góp của các thành viên
+2. Đóng góp của các thành viên
 
 - Nguyễn Tiến Đạt – B19DCCN175: Xây dựng giao diện và code cho trang chủ, chức năng đăng nhập, đăng xuất cho quản lí khách sạn và các chức năng thêm, sửa, xóa đặt phòng.
 - Nguyễn Tiến Thiệu – B19DCCN671: Xây dựng giao diện và code cho chức năng About Us, Room Vip và Room Custom
